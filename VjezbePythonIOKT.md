@@ -1,0 +1,6 @@
+
+# Vjezbe iz OIKT Python
+
+
+
+
